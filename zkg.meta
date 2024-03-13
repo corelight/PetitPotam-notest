@@ -1,0 +1,7 @@
+[package]
+script_dir = scripts
+corelight_name = PetitPotam
+summary = Detect attempts to exploit the PetitPotam NTLM relay attack
+description = Detect attempts to exploit the  PetitPotam NTLM relay attacks
+tags = NTLM, Windows, PetitPotam
+version = 0.1

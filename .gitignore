@@ -1,0 +1,7 @@
+# Zeek output files
+*.log
+
+# VIM backup files
+*~
+.DS_Store
+.tmp
